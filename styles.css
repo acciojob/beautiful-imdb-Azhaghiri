@@ -1,9 +1,9 @@
-img{
+.moviepic{
 	height:300px;
 	width:250px;
 	opacity:0.8;
 }
-p{
+.movieDetail{
 	position:center;
 	top:50px;
 	width:300px;
